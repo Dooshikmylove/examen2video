@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    background: coral;
+    width: 100%;
+    height: 100%;
+
+}
+fieldset{
+    background: darkslateblue;
+}
+#boton{
+    color: white;
+    background: black;
+}
+#t1{
+color: white;
+background: darkred;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#t2{
+    color: blue;
+    background: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#t3{
+    color: blueviolet;
+    background: chocolate;
+    font-family: fantasy;
+}
+img{
+    border-radius: 25%;
+    border: 5px solid black;
+}
